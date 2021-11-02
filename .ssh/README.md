@@ -27,10 +27,10 @@ Host *
   UseKeychain yes
   IdentityFile ~/.ssh/id_rsa
 
-Host shortname
+Host your_shortname
   Hostname <ip-address>
-  User ubuntu
-  IdentityFile ~/.ssh/name.pem
+  User youruser
+  IdentityFile ~/.ssh/id_rsa.pub
 ```
 
 #### Add your key to the SSH agent
@@ -60,6 +60,12 @@ ssh-copy-id -i ~/.ssh/id_rsa.pub <remote-host>
 
 ```
 pbcopy < ~/.ssh/id_rsa.pub
+```
+
+#### Connect to a server via SSH
+
+```
+ssh your_shortname
 ```
 
 #### Troubleshooting
