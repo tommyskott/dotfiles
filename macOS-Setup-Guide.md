@@ -16,7 +16,7 @@ _Why does this document exist?_ This is for the times when get a new computer an
 
 ## OhMyZsh
 
-Install the developer tool [OhMyZsh]() to get nice auto-completion, themes and much more in your terminal. Powerlevel9k theme is outdated, powerlevel10k is available or simply use one of the built in themes.
+Install the cli tool [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) to boost your terminal with nice auto-completions, themes and much more.
 
 ## Homebrew
 
