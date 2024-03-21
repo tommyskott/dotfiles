@@ -1,0 +1,44 @@
+{
+  "workbench.startupEditor": "none",
+  "editor.fontFamily": "\"fira code\"",
+  "editor.fontSize": 16,
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "editor.fontWeight": "400",
+  "editor.bracketPairColorization.enabled": true,
+  "gitlens.codeLens.enabled": false,
+  "gitlens.statusBar.enabled": false,
+  "gitlens.hovers.enabled": false,
+  "gitlens.menus": false,
+  "editor.minimap.enabled": false,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "security.workspace.trust.untrustedFiles": "open",
+  "security.workspace.trust.banner": "never",
+  "security.workspace.trust.enabled": false,
+  "security.workspace.trust.startupPrompt": "never",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "git.ignoreMissingGitWarning": true,
+  "workbench.colorTheme": "Default Dark+",
+  "editor.accessibilitySupport": "off",
+  "git.openRepositoryInParentFolders": "never",
+  "workbench.activityBar.location": "hidden",
+  "workbench.settings.editor": "json"
+}
