@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "mikestead.dotenv",
+    "dbaeumer.vscode-eslint",
+    "tamasfe.even-better-toml",
+    "dawhite.mustache",
+    "eamodio.gitlens",
+    "github.vscode-github-actions",
+    "bmewburn.vscode-intelephense-client"
+  ]
+}
