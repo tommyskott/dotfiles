@@ -2,6 +2,8 @@
 
 ## Extensions
 
+Here's a list of useful extensions. Open them in VS Code Marketplace or check the "Recommended extensions" tab in VS Code.
+
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
