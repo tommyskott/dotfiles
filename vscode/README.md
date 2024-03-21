@@ -1,5 +1,16 @@
 # VS Code
 
+## Extensions
+
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
+- [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions)
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Mustache](https://marketplace.visualstudio.com/items?itemName=dawhite.mustache)
+- [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
 ## Profile settings & key bindings
 
 You can import/export different profiles in VS Code but it's kind of buggy on macOS and VS Code defaults back to the default profile every time you restart VS Code (bug?). So for that reason, we are replacing our default settings instead of importing a new profile, so we don't have switch profile all the time.
