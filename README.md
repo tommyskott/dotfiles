@@ -4,5 +4,5 @@ These are my dotfiles. Not much here and mainly for my own use. But you might fi
 
 ## Table of contents
 
-- [SSH](.ssh/README.md) (Config, SSH keys etc.)
-- [VS Code](vs-code/README.md) (Profile settings, key bindings and extensions)
+- [SSH](.ssh/README.md)
+- [VS Code](visual-studio-code/README.md)
