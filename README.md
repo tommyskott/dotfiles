@@ -22,7 +22,7 @@ _Why does this document exist?_ This is for the times when get a new computer an
 
 1. Download Xcode from the macOS [App Store](https://apps.apple.com/se/app/xcode/id497799835), or from Apple's [website](https://developer.apple.com/xcode/). When it has completed, install the Xcode cli tools with `xcode-select --install`.
 
-1. Login to your accounts (e-mail, calendar, notes) in System Settings -> Accounts so the data can start syncing.
+1. Login to your other accounts (e-mail, calendar, notes) in System Settings -> Internet Accounts so the data can start syncing.
 
 ## OhMyZsh
 
@@ -161,13 +161,14 @@ git config --global user.email "your_email"
 git config --global user.email
 ```
 
-## VS Code
+## SSH
 
-Download and install [VS Code]() and add your settings and key bindings to your default workspace profile.
+[Follow the guide](/.ssh/README.md) on how to setup SSH config and adding new SSH keys.
 
-## Extensions
+## Visual Studio Code
 
-Here's a list of useful extensions. Open them in VS Code Marketplace or check the "Recommended extensions" tab in VS Code.
+Download and install [VS Code](https://code.visualstudio.com/) and add the extensions you need, from the list below.  
+Open them in VS Code Marketplace or check the "Recommended extensions" tab in VS Code.
 
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
@@ -178,22 +179,22 @@ Here's a list of useful extensions. Open them in VS Code Marketplace or check th
 - [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-## Profile settings & key bindings
+### Profile settings & key bindings
 
 You can import/export different profiles in VS Code but it's kind of buggy on macOS and VS Code defaults back to the default profile every time you restart VS Code (bug?). So for that reason, we are replacing our default settings instead of importing a new profile, so we don't have switch profile all the time.
 
 1. Open VS Code with your default profile active and open settings `cmd + ,`.
 1. Search for the setting to show settings as json instead of ui: `"workbench.settings.editor": "json"`.
 1. Open your settings again but this time it should open in json format.
-1. Copy and paste the contents of [settings.json](settings.json) to your settings.json in VS Code and save.
+1. Copy and paste the contents of [settings.json](/visual-studio-code/settings.json) to your settings.json in VS Code and save.
 1. Open Settings -> Keyboard Shortcuts in VS Code and click the icon in the upper right to show keybindings as json format instead of ui.
-1. Copy and paste the contents of [keybindings.json](keybindings.json) to your keybindings.json in VS Code and save.
+1. Copy and paste the contents of [keybindings.json](/visual-studio-code/keybindings.json) to your keybindings.json in VS Code and save.
 
 ## Terminal
 
-Download and install [iTerm2](https://iterm2.com/), for a more customizable terminal.
+Download and install [iTerm2](https://iterm2.com/), for a more customizable terminal. Download and import a [color scheme](https://iterm2colorschemes.com/), I like the [Dracula](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Dracula.itermcolors) color sheme.
 
-- [iTerm2 Color Schemes](https://iterm2colorschemes.com/)
+To prevent weird locale warnings when connecting to a VPS or similar, make sure to turn off the setting to set the locale automatically in Settings -> Profiles (Default) -> Terminal -> "Environment: Set locale variables automatically".
 
 ## Additional software
 
