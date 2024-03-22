@@ -195,6 +195,10 @@ You can import/export different profiles in VS Code but it's kind of buggy on ma
 1. Open Settings -> Keyboard Shortcuts in VS Code and click the icon in the upper right to show keybindings as json format instead of ui.
 1. Copy and paste the contents of [keybindings.json](/keybindings.json) to your keybindings.json in VS Code and save.
 
+### VS Code: shell command
+
+Install the VS Code shell command in your `PATH` to be able to open projects in VS Code from your terminal e.g. `code my-project`. Open the command palette in VS Code by pressing `cmd + shift + p` and search for `Shell command: Install 'code' command in PATH` and run it.
+
 ## Terminal
 
 Download and install [iTerm2](https://iterm2.com/), for a more customizable terminal. Download and import a [color scheme](https://iterm2colorschemes.com/), I like the [Dracula](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Dracula.itermcolors) color sheme.
