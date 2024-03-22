@@ -1,8 +1,12 @@
 # Dot files
 
+These are my dot files.  
+Mainly for my own references but you might find something useful.  
+Cheers! ✌️
+
 ## macOS Setup Guide - for developers
 
-This is the official Borgenfalk & Skott work station setup guide for macOS, to help you set up your dev environment as fast as possible.
+This is the official Borgenfalk & Skott macOS setup guide, to help you set up your dev environment as fast as possible.
 
 _Why does this document exist?_ This is for the times when get a new computer and don't want to remember all the tools and steps that are needed to get your environment like you want it. So instead of googling and trying to remember what and how to install, simply follow this "well structured" guide.
 
@@ -14,7 +18,11 @@ _Why does this document exist?_ This is for the times when get a new computer an
 
 1. Download and install [1Password](https://1password.com/) so your login credentials are easy to access for the rest of the guide.
 
+1. Download and install [Google Chrome](https://www.google.com/chrome/) web browser and sign in to your profile.
+
 1. Download Xcode from the macOS [App Store](https://apps.apple.com/se/app/xcode/id497799835), or from Apple's [website](https://developer.apple.com/xcode/). When it has completed, install the Xcode cli tools with `xcode-select --install`.
+
+1. Login to your accounts (e-mail, calendar, notes) in System Settings -> Accounts so the data can start syncing.
 
 ## OhMyZsh
 
@@ -137,6 +145,9 @@ Setup your global git settings so your commits are assigned to your user.
 Git comes pre-installed with macOS.
 
 ```bash
+git -v
+# git version 2.39.3 (Apple Git-146)
+
 # set a global username
 git config --global user.name "your_username"
 
@@ -215,13 +226,11 @@ A list of links to some of the tools I use or have used before.
 
 ### Productivity
 
-- [1Password](https://1password.com/)
 - [CleanMyMac X](https://macpaw.com/cleanmymac)
 - [DaisyDisk](https://daisydiskapp.com/)
 - [Dropbox](https://www.dropbox.com/install)
 - [ImageOptim](https://imageoptim.com/mac)
 - [Little Snitch](https://obdev.at/products/littlesnitch/index.html)
-- [Magnet](https://magnet.crowdcafe.com/)
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [The Unarchiver](https://theunarchiver.com/)
 - [Toggl Track](https://toggl.com/track/)
