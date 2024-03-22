@@ -32,6 +32,14 @@ Install the cli tool [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) to boost yo
 
 Install [Homebrew](https://brew.sh/), the missing package manager for macOS.
 
+```bash
+# list all installed brew packages
+brew list
+
+# list all brew services (running and stopped)
+brew services list
+```
+
 ### Homebrew - Casks of Fonts
 
 When Homebrew is installed, `tap` the [Casks of Fonts](https://github.com/Homebrew/homebrew-cask-fonts) and install the fonts you need.
@@ -90,9 +98,6 @@ brew services restart mariadb
 # Stopping `mariadb`... (might take a while)
 # ==> Successfully stopped `mariadb` (label: homebrew.mxcl.mariadb)
 # ==> Successfully started `mariadb` (label: homebrew.mxcl.mariadb)
-
-# list all brew services
-brew services list
 ```
 
 ## Composer
