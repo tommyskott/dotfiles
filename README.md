@@ -186,9 +186,9 @@ You can import/export different profiles in VS Code but it's kind of buggy on ma
 1. Open VS Code with your default profile active and open settings `cmd + ,`.
 1. Search for the setting to show settings as json instead of ui: `"workbench.settings.editor": "json"`.
 1. Open your settings again but this time it should open in json format.
-1. Copy and paste the contents of [settings.json](/visual-studio-code/settings.json) to your settings.json in VS Code and save.
+1. Copy and paste the contents of [settings.json](/settings.json) to your settings.json in VS Code and save.
 1. Open Settings -> Keyboard Shortcuts in VS Code and click the icon in the upper right to show keybindings as json format instead of ui.
-1. Copy and paste the contents of [keybindings.json](/visual-studio-code/keybindings.json) to your keybindings.json in VS Code and save.
+1. Copy and paste the contents of [keybindings.json](/keybindings.json) to your keybindings.json in VS Code and save.
 
 ## Terminal
 
