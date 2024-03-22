@@ -247,7 +247,6 @@ A list of links to some of the tools I use or have used before.
 - [SVGOMG](https://jakearchibald.github.io/svgomg/)
 - [TinyPNG](https://tinypng.com/)
 - [Transmit](https://panic.com/transmit/)
-- [VS Code](https://code.visualstudio.com/)
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 - [W3C Markup Validator](https://validator.w3.org/)
 - [WordPress Packagist](https://wpackagist.org/)
@@ -272,5 +271,4 @@ A list of links to some of the tools I use or have used before.
 
 ### Misc
 
-- [Aerial Apple TV Screensaver](https://github.com/JohnCoates/Aerial)
 - [Logitech MX Keys App](https://www.logitech.com/sv-se/setup/mxsetup/logi-options.html)
