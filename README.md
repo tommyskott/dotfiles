@@ -232,24 +232,12 @@ A list of links to some of the tools I use or have used before.
 
 ### Development
 
-- [Crontab Guru](https://crontab.guru/)
 - [Docker Desktop](https://hub.docker.com/editions/community/docker-ce-desktop-mac)
-- [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/)
 - [Git Tower](https://www.git-tower.com/mac)
-- [Google PageSpeed Insights](https://pagespeed.web.dev/)
 - [Insomnia](https://insomnia.rest/)
-- [LinkedIn Post Inspector](https://www.linkedin.com/post-inspector/)
-- [Npm Semver Calculator](https://semver.npmjs.com/)
 - [Paw](https://paw.cloud/)
-- [Packagist](https://packagist.org/packages/borgenfalkskott/)
 - [Sublime Text](https://www.sublimetext.com/)
-- [SVG 2 JSX](https://svg2jsx.com/)
-- [SVGOMG](https://jakearchibald.github.io/svgomg/)
-- [TinyPNG](https://tinypng.com/)
 - [Transmit](https://panic.com/transmit/)
-- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
-- [W3C Markup Validator](https://validator.w3.org/)
-- [WordPress Packagist](https://wpackagist.org/)
 
 ### Entertainment
 
@@ -272,4 +260,5 @@ A list of links to some of the tools I use or have used before.
 
 ### Misc
 
+- [LG Screen Manager](https://apps.apple.com/se/app/lg-screen-manager-lg-monitor/id1142051783?l=en-GB&mt=12)
 - [Logitech MX Keys App](https://www.logitech.com/sv-se/setup/mxsetup/logi-options.html)
