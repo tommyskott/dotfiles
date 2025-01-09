@@ -236,6 +236,7 @@ A list of links to some of the tools I use or have used before.
 - [Git Tower](https://www.git-tower.com/mac)
 - [Insomnia](https://insomnia.rest/)
 - [Paw](https://paw.cloud/)
+- [PoEdit](https://poedit.net/)
 - [Sublime Text](https://www.sublimetext.com/)
 - [Transmit](https://panic.com/transmit/)
 
